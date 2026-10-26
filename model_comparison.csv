@@ -1,0 +1,9 @@
+Model,MAE,RMSE
+AdaBoost,27.55,34.72
+Linear Regression,27.66,35.21
+Stacking,28.11,35.53
+Bagging,28.71,36.02
+Gradient Boosting,29.2,36.54
+XGBoost,29.77,36.99
+Random Forest,29.83,37.23
+Decision Tree,32.58,41.68
