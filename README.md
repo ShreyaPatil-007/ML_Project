@@ -20,6 +20,18 @@ SmartStock AI is a machine-learning-based retail demand forecasting project. It 
 - Gemini LLM assistant integration
 - Secure API-key configuration using environment variables
 
+
+<img width="1357" height="640" alt="Screenshot 2026-10-26 195635" src="https://github.com/user-attachments/assets/579c5061-27c8-4553-b5b3-0952a0d75cfb" />
+
+
+
+<img width="1365" height="677" alt="Screenshot 2026-10-26 195548" src="https://github.com/user-attachments/assets/bdea2bb4-b2f0-470e-acab-742d10879f8b" />
+
+
+<img width="1364" height="640" alt="Screenshot 2026-10-26 195612" src="https://github.com/user-attachments/assets/dadea5bc-7607-47b0-854b-4877bfe1de3e" />
+
+
+
 ## Tech Stack
 
 - Python
